@@ -1,0 +1,33 @@
+* {
+	border:				1px solid black;
+}
+
+.error {
+	background-color:	rgba(255, 0, 0, 0.3);
+}
+
+.success {
+	background-color:	rgba(0, 255, 0, 0.3);
+}
+
+.center {
+	display:	table;
+	margin:		auto;
+}
+
+hr.separator {
+	border-color:		green;
+}
+
+div#install {
+}
+
+div#upload {
+}
+
+div#diff {
+}
+
+div#diff table td {
+	vertical-align:	top;
+}
